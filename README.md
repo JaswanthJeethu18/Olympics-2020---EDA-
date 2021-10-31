@@ -9,7 +9,7 @@ This dataset contains the details of the Athletes, Coaches, Teams participating 
 
 
 ## Table of Contents
-Introduction,
+Introduction,<br/>
 Aim of the Project
 Data Exploration & Visualization
 
