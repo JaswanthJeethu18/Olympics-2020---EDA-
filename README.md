@@ -24,3 +24,9 @@ I have performed Explanatory Data Analysis for the Tokyo Olympics Dataset. Panda
 
 ## Data Exploration & Visualization
 Importing libraries and reading the dataset
+
+
+The number of athletes that participated in Olympics 2020 is 11085<br/>
+The number of sports categories in Olympics 2020 is 46<br/>
+The number of countries that participated in Olympics 2020 is 206<br/>
+The number of coaches present in Olympics 2020 is 394<br/>
